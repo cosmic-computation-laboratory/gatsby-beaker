@@ -1,0 +1,7 @@
+{
+  "name": "gatsby-plugin-hyperdrive",
+  "description": "An example of using Gatsby with Beaker",
+  "version": "0.1.0",
+  "author": "Jon Gold <gold@cosmiccomputation.org>",
+  "license": "MIT"
+}
